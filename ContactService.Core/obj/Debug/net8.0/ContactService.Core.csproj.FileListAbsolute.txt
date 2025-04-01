@@ -9,3 +9,4 @@ C:\Users\b\source\repos\MyContacts\ContactService.Core\obj\Debug\net8.0\ContactS
 C:\Users\b\source\repos\MyContacts\ContactService.Core\obj\Debug\net8.0\refint\ContactService.Core.dll
 C:\Users\b\source\repos\MyContacts\ContactService.Core\obj\Debug\net8.0\ContactService.Core.pdb
 C:\Users\b\source\repos\MyContacts\ContactService.Core\obj\Debug\net8.0\ref\ContactService.Core.dll
+C:\Users\b\source\repos\MyContacts\ContactService.Core\obj\Debug\net8.0\ContactService.Core.sourcelink.json

@@ -9,3 +9,4 @@ C:\Users\b\source\repos\MyContacts\ReportService.Core\obj\Debug\net8.0\ReportSer
 C:\Users\b\source\repos\MyContacts\ReportService.Core\obj\Debug\net8.0\refint\ReportService.Core.dll
 C:\Users\b\source\repos\MyContacts\ReportService.Core\obj\Debug\net8.0\ReportService.Core.pdb
 C:\Users\b\source\repos\MyContacts\ReportService.Core\obj\Debug\net8.0\ref\ReportService.Core.dll
+C:\Users\b\source\repos\MyContacts\ReportService.Core\obj\Debug\net8.0\ReportService.Core.sourcelink.json

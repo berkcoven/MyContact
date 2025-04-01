@@ -15,3 +15,4 @@ C:\Users\b\source\repos\MyContacts\ContactService.Infrastructure\obj\Debug\net8.
 C:\Users\b\source\repos\MyContacts\ContactService.Infrastructure\obj\Debug\net8.0\ContactService.Infrastructure.pdb
 C:\Users\b\source\repos\MyContacts\ContactService.Infrastructure\obj\Debug\net8.0\ContactService.Infrastructure.genruntimeconfig.cache
 C:\Users\b\source\repos\MyContacts\ContactService.Infrastructure\obj\Debug\net8.0\ref\ContactService.Infrastructure.dll
+C:\Users\b\source\repos\MyContacts\ContactService.Infrastructure\obj\Debug\net8.0\ContactService.Infrastructure.sourcelink.json

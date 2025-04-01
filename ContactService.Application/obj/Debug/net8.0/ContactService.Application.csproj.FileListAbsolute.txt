@@ -13,3 +13,4 @@ C:\Users\b\source\repos\MyContacts\ContactService.Application\obj\Debug\net8.0\C
 C:\Users\b\source\repos\MyContacts\ContactService.Application\obj\Debug\net8.0\refint\ContactService.Application.dll
 C:\Users\b\source\repos\MyContacts\ContactService.Application\obj\Debug\net8.0\ContactService.Application.pdb
 C:\Users\b\source\repos\MyContacts\ContactService.Application\obj\Debug\net8.0\ref\ContactService.Application.dll
+C:\Users\b\source\repos\MyContacts\ContactService.Application\obj\Debug\net8.0\ContactService.Application.sourcelink.json

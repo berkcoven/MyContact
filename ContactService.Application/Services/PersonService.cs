@@ -21,7 +21,7 @@ namespace ContactService.Application.Services
         {
             var person = _mapper.Map<Person>(personDto);
             await _personRepository.AddPersonAsync(person);
-            return BaseResponse<Person>.SuccessResponse(null, "Person added successfully.");
+            return BaseResponse<Person>.SuccessResponse(person, "Person added successfully.");
 
         }
 
@@ -68,6 +68,15 @@ namespace ContactService.Application.Services
             var result=await _personRepository.CountPhoneNumbersByLocationAsync(location);
             return BaseResponse<int>.SuccessResponse(result, "GetPhoneNumberCountByLocation retrievde successfully.");
 
+        }
+
+        public async Task<PersonDto> GetPersonByIdAsync(Guid personId)
+        {
+            var person = await _personRepository.GetByIdAsync(personId);
+            if (person == null)
+                return null;
+
+            return _mapper.Map<PersonDto>(person);
         }
     }
 }

@@ -182,3 +182,4 @@ C:\Users\b\source\repos\MyContacts\ContactService.API\bin\Debug\net8.0\ContactSe
 C:\Users\b\source\repos\MyContacts\ContactService.API\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\b\source\repos\MyContacts\ContactService.API\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\b\source\repos\MyContacts\ContactService.API\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\b\source\repos\MyContacts\ContactService.API\obj\Debug\net8.0\ContactService.API.sourcelink.json
