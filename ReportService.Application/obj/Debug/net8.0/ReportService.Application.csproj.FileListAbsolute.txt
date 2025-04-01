@@ -1,0 +1,17 @@
+C:\Users\b\source\repos\MyContacts\ReportService.Application\bin\Debug\net8.0\ReportService.Application.deps.json
+C:\Users\b\source\repos\MyContacts\ReportService.Application\bin\Debug\net8.0\ReportService.Application.dll
+C:\Users\b\source\repos\MyContacts\ReportService.Application\bin\Debug\net8.0\ReportService.Application.pdb
+C:\Users\b\source\repos\MyContacts\ReportService.Application\bin\Debug\net8.0\ReportService.Core.dll
+C:\Users\b\source\repos\MyContacts\ReportService.Application\bin\Debug\net8.0\ReportService.Core.pdb
+C:\Users\b\source\repos\MyContacts\ReportService.Application\obj\Debug\net8.0\ReportService.Application.csproj.AssemblyReference.cache
+C:\Users\b\source\repos\MyContacts\ReportService.Application\obj\Debug\net8.0\ReportService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b\source\repos\MyContacts\ReportService.Application\obj\Debug\net8.0\ReportService.Application.AssemblyInfoInputs.cache
+C:\Users\b\source\repos\MyContacts\ReportService.Application\obj\Debug\net8.0\ReportService.Application.AssemblyInfo.cs
+C:\Users\b\source\repos\MyContacts\ReportService.Application\obj\Debug\net8.0\ReportService.Application.csproj.CoreCompileInputs.cache
+C:\Users\b\source\repos\MyContacts\ReportService.Application\obj\Debug\net8.0\ReportSe.1AB549AE.Up2Date
+C:\Users\b\source\repos\MyContacts\ReportService.Application\obj\Debug\net8.0\ReportService.Application.dll
+C:\Users\b\source\repos\MyContacts\ReportService.Application\obj\Debug\net8.0\refint\ReportService.Application.dll
+C:\Users\b\source\repos\MyContacts\ReportService.Application\obj\Debug\net8.0\ReportService.Application.pdb
+C:\Users\b\source\repos\MyContacts\ReportService.Application\obj\Debug\net8.0\ref\ReportService.Application.dll
+C:\Users\b\source\repos\MyContacts\ReportService.Application\bin\Debug\net8.0\ReportService.Infrastructure.dll
+C:\Users\b\source\repos\MyContacts\ReportService.Application\bin\Debug\net8.0\ReportService.Infrastructure.pdb

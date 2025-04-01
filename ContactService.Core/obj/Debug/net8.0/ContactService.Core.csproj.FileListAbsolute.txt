@@ -1,0 +1,11 @@
+C:\Users\b\source\repos\MyContacts\ContactService.Core\bin\Debug\net8.0\ContactService.Core.deps.json
+C:\Users\b\source\repos\MyContacts\ContactService.Core\bin\Debug\net8.0\ContactService.Core.dll
+C:\Users\b\source\repos\MyContacts\ContactService.Core\bin\Debug\net8.0\ContactService.Core.pdb
+C:\Users\b\source\repos\MyContacts\ContactService.Core\obj\Debug\net8.0\ContactService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b\source\repos\MyContacts\ContactService.Core\obj\Debug\net8.0\ContactService.Core.AssemblyInfoInputs.cache
+C:\Users\b\source\repos\MyContacts\ContactService.Core\obj\Debug\net8.0\ContactService.Core.AssemblyInfo.cs
+C:\Users\b\source\repos\MyContacts\ContactService.Core\obj\Debug\net8.0\ContactService.Core.csproj.CoreCompileInputs.cache
+C:\Users\b\source\repos\MyContacts\ContactService.Core\obj\Debug\net8.0\ContactService.Core.dll
+C:\Users\b\source\repos\MyContacts\ContactService.Core\obj\Debug\net8.0\refint\ContactService.Core.dll
+C:\Users\b\source\repos\MyContacts\ContactService.Core\obj\Debug\net8.0\ContactService.Core.pdb
+C:\Users\b\source\repos\MyContacts\ContactService.Core\obj\Debug\net8.0\ref\ContactService.Core.dll

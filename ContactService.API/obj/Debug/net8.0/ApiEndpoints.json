@@ -1,0 +1,124 @@
+[
+  {
+    "ContainingType": "ContactService.API.Controllers.ContactInformationController",
+    "Method": "AddContactInformation",
+    "RelativePath": "api/ContactInformation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contactInformation",
+        "Type": "ContactService.Core.DTOs.ContactInfoDtos.AddContactInfoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContactService.API.Controllers.ContactInformationController",
+    "Method": "DeleteContactInformation",
+    "RelativePath": "api/ContactInformation/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContactService.API.Controllers.PersonController",
+    "Method": "GetAllPeople",
+    "RelativePath": "api/Person",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContactService.API.Controllers.PersonController",
+    "Method": "AddPerson",
+    "RelativePath": "api/Person",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "person",
+        "Type": "ContactService.Core.DTOs.PersonDtos.PersonDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContactService.API.Controllers.PersonController",
+    "Method": "GetPersonDetails",
+    "RelativePath": "api/Person/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContactService.API.Controllers.PersonController",
+    "Method": "DeletePerson",
+    "RelativePath": "api/Person/{personId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "personId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContactService.API.Controllers.PersonController",
+    "Method": "GetPersonAndPhoneCountByLocation",
+    "RelativePath": "api/Person/count-by-location/{location}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "location",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContactService.API.Controllers.ReportController",
+    "Method": "RequestReport",
+    "RelativePath": "api/Report/request-report",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ContactService.Core.DTOs.ReportDtos.ReportRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
