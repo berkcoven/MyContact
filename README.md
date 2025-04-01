@@ -31,19 +31,26 @@ Açıklama: Yeni bir kişi ekler.
   "lastName": "Coven",
   "company": "Freelance"
 }
+
+
 **1.2 Tüm Kişileri Getir (Get All People)**
 Endpoint: GET /person
 Açıklama: Sistemdeki tüm kişileri getirir.
+
+
 **1.3 Kişi Silme (Delete Person)**
 Endpoint: DELETE /person/{personId}
 Açıklama: Belirtilen personId ile kişiyi siler.
 Örnek İstek:
 DELETE http://localhost:5000/api/person/{personId}
+
+
 **1.4 Kişi Detaylarını Getir **
 Endpoint: GET /person/{personId}
 Açıklama: Belirtilen kişinin detaylarını getirir.
 Örnek İstek:
 GET http://localhost:5000/api/person/{personId}
+
 **2. İletişim Bilgisi Yönetimi
 2.1 İletişim Bilgisi Ekleme (Add Contact Information)**
 Endpoint: POST /ContactInformation
@@ -54,22 +61,27 @@ Açıklama: Bir kişiye iletişim bilgisi ekler.
   "infoType": 1, (Phone,Email,Location)
   "infoContent": "string"
 }
+
+
 **2.2 İletişim Bilgisi Silme**
 Endpoint: DELETE /ContactInformation/{id}
 Açıklama: Belirtilen id ile iletişim bilgisi siler.
 Örnek İstek:
 DELETE http://localhost:5000/api//ContactInformation/{id}
+
 **3. Raporlama (Reports)
 3.1 Tüm Raporları Getir (Get All Reports)**
 Endpoint: GET /report
 Açıklama: Sistemdeki tüm raporları getirir.
 Örnek İstek:
 GET http://localhost:5000/api/report
+
 **3.2 Rapor Detaylarını Getir (Get Report Details)**
 Endpoint: GET /report/{id}
 Açıklama: Belirtilen raporun detaylarını getirir.
 Örnek İstek:
 GET http://localhost:5000/api/report/{id}
+
 **3.3 Konuma göre Rapor Oluşturma**
 Endpoint: POST /report/request-report
 Açıklama: Verilen lokasyona göre rapor oluşturur.
