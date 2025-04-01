@@ -13,3 +13,4 @@ C:\Users\b\source\repos\MyContacts\ReportService.Infrastructure\obj\Debug\net8.0
 C:\Users\b\source\repos\MyContacts\ReportService.Infrastructure\obj\Debug\net8.0\refint\ReportService.Infrastructure.dll
 C:\Users\b\source\repos\MyContacts\ReportService.Infrastructure\obj\Debug\net8.0\ReportService.Infrastructure.pdb
 C:\Users\b\source\repos\MyContacts\ReportService.Infrastructure\obj\Debug\net8.0\ref\ReportService.Infrastructure.dll
+C:\Users\b\source\repos\MyContacts\ReportService.Infrastructure\obj\Debug\net8.0\ReportService.Infrastructure.sourcelink.json

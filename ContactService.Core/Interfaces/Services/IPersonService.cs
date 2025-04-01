@@ -16,6 +16,7 @@ namespace ContactService.Core.Interfaces.Services
         Task<BaseResponse<PersonDetailsResponse>> GetPersonDetailsAsync(Guid personId);
         Task<BaseResponse<int>> GetPersonCountByLocationAsync(string location);
         Task<BaseResponse<int>> GetPhoneNumberCountByLocationAsync(string location);
+        Task<PersonDto> GetPersonByIdAsync(Guid personId);
 
 
     }

@@ -16,13 +16,14 @@ namespace ContactService.Infrastructure.Repositories
 
         public async Task<Person> AddPersonAsync(Person person)
         {
-             //throw new Exception("Db Hata Test");
+             
             _context.People.Add(person);
             await _context.SaveChangesAsync();
             return person;
         }
         public async Task<List<Person>> GetAllAsync()
         {
+            //throw new Exception("Db Hata Test");
             return await _context.People.ToListAsync();
         }
         public async Task<Person?> GetByIdAsync(Guid personId)

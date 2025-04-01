@@ -190,3 +190,4 @@ C:\Users\b\source\repos\MyContacts\ReportService.API\bin\Debug\net8.0\ContactSer
 C:\Users\b\source\repos\MyContacts\ReportService.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
 C:\Users\b\source\repos\MyContacts\ReportService.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
 C:\Users\b\source\repos\MyContacts\ReportService.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\b\source\repos\MyContacts\ReportService.API\obj\Debug\net8.0\ReportService.API.sourcelink.json
